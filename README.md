@@ -61,4 +61,6 @@ Datasize : 4796
  # test perplexity : 1.01022369536
  # ---------------------------------
  
+ >>> python predict.py -t n4 -m ./model_n4.npz -p 9840 
+ 9840 6934 9699 6768 ...
 ```
